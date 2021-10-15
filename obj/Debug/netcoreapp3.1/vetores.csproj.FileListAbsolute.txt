@@ -1,0 +1,13 @@
+D:\VisualStudioProjetos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.exe
+D:\VisualStudioProjetos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.deps.json
+D:\VisualStudioProjetos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.runtimeconfig.json
+D:\VisualStudioProjetos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.runtimeconfig.dev.json
+D:\VisualStudioProjetos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.dll
+D:\VisualStudioProjetos\vetores\vetores\bin\Debug\netcoreapp3.1\vetores.pdb
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.AssemblyInfo.cs
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.dll
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.pdb
+D:\VisualStudioProjetos\vetores\vetores\obj\Debug\netcoreapp3.1\vetores.genruntimeconfig.cache
